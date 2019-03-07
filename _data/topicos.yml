@@ -1,5 +1,5 @@
 - nome: Introdução
-  link: /introdução.html
+  link: /
 - nome: Equações de Maxwell
   link: /maxwell.html
 - nome: Ondas Senoidais
@@ -7,7 +7,7 @@
 - nome: Energia e Momento
   link: /energia.html
 - nome: Vetor de Poynting
-  link: /poyting.html
+  link: /poynting.html
 - nome: Ondas Eletromagnéticas na Matéria
   link: /materia.html
 - nome: Espectro Eletromagnético
