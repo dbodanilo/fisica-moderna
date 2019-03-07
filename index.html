@@ -1,0 +1,13 @@
+---
+layout: default
+title: Home
+---
+
+<h1>{{ page.title }} - 07-mar-2019</h1>
+
+<ul>
+    {% for topico in site.data.topicos %}
+        <li><a href="{{ topico.link }}">{{ topico.nome }}</li>
+    {% endfor %}
+</ul>
+
